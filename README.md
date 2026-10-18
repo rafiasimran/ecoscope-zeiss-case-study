@@ -57,4 +57,4 @@ Next.js · TypeScript · Google Gemini API · PapaParse · Recharts · Vercel ·
 ---
 
 **Rafia Imran** · AI product development · Munich / remote
-[GitHub profile](https://github.com/rafiasimran) · [Live CV](https://rafiaimran.cloud) · [LinkedIn](https://www.linkedin.com/in/rafia-i-b64664276) · imranrafia25789@gmail.com
+[GitHub profile](https://github.com/rafiasimran) · [Live CV](https://rafiaimran.cloud) · imranrafia25789@gmail.com
